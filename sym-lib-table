@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name 00_Custom)(type Legacy)(uri ${KIPRJMOD}/../KiCadLibraries/00_Custom.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "CocoProtoBoard_Library")(type "KiCad")(uri "${KIPRJMOD}/CocoProtoBoard_Library.kicad_sym")(options "")(descr ""))
 )
